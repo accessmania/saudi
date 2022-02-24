@@ -1,0 +1,68 @@
+
+
+
+
+
+
+-----------------------------
+메뉴  : 리본메뉴로 변경 (   )
+
+권한 : master , staff ( 쓰기권한 )
+
+-------------------------------------------
+
+(1) 보고서
+
+	검색조건에 따라 보고서 결과가 나오게
+	
+job title:	designation
+sponsor : company
+site : area
+
+
+normal : 일반근무
+ot1 연장근무
+ot2 휴일근무
+
+reghours : normal
+ot1 , ot2
+
+absent : 무조건 8 , 예외없이
+absent 기준이 되고 , 규칙안맞는 입력이있을대
+그것들은 0으로 간주한다.
+
+
+vacationemergency leave : 휴가 (AD ,결근도 아니고 근무도 아닌 )
+vacationemergency 값이 있으면 나머지 모두 0처리
+
+
+access report 기능으로 만들고
+
+지역 , sponsor  (그룹화)
+
+
+(2) 결근
+
+
+(3) vba 영문office
+로그인 ( id , pw) 
+사용자권한 ( master , 팀장 , 직원 , .... )
+쓰기권한 , 읽기전용 , 메뉴접근
+
+----------------------------------------------------
+
+
+
+사우디 
+UAE ( db , ftp  )
+카타르
+
+
+
+사진
+db 안에 삽입 x
+사진파일 외부경로 
+사진 경로만 가진다. 
+
+access 파일 
+
