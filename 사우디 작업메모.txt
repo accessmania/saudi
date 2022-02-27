@@ -7,7 +7,20 @@
 -----------------------------
 메뉴  : 리본메뉴로 변경 (   )
 
-권한 : master , staff ( 쓰기권한 )
+	아이콘
+	버튼 코드 vba
+
+
+NewTask
+RelationshipsHideTable
+ReportsMenu
+PrintPreviewClose
+ViewsReportView
+GroupCreateReports
+PivotTableLayoutReportLayout
+
+
+권한 : master , staff ( 쓰기권한 ) (0)
 
 -------------------------------------------
 
